@@ -9,7 +9,7 @@ Käsureal: `dotnet run`
 
 ## Täisversiooni ehitamine
 
-Käsureal: `dotnet build -c Release`
+Käsureal: `dotnet build -c Release`<br>
 Väljund paigutatakse kataloogi `bin/Release`
 
 
